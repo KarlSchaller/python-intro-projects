@@ -1,2 +1,2 @@
 # python-intro-projects
-Projects for CIs 1051
+Projects for CIS 1051
